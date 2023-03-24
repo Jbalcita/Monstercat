@@ -580,6 +580,21 @@ video {
   margin-right: auto;
 }
 
+.mx-5 {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+}
+
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.mx-4 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
 .mb-10 {
   margin-bottom: 2.5rem;
 }
@@ -640,6 +655,54 @@ video {
   height: 20%;
 }
 
+.h-\[300px\] {
+  height: 300px;
+}
+
+.h-\[353px\] {
+  height: 353px;
+}
+
+.h-\[468px\] {
+  height: 468px;
+}
+
+.h-\[50\%\] {
+  height: 50%;
+}
+
+.h-\[70\%\] {
+  height: 70%;
+}
+
+.h-\[337px\] {
+  height: 337px;
+}
+
+.h-auto {
+  height: auto;
+}
+
+.h-\[600px\] {
+  height: 600px;
+}
+
+.h-\[100px\] {
+  height: 100px;
+}
+
+.h-\[331px\] {
+  height: 331px;
+}
+
+.h-\[331\] {
+  height: 331;
+}
+
+.min-h-\[300px\] {
+  min-height: 300px;
+}
+
 .w-16 {
   width: 4rem;
 }
@@ -662,6 +725,58 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-20 {
+  width: 5rem;
+}
+
+.w-\[353px\] {
+  width: 353px;
+}
+
+.w-\[300px\] {
+  width: 300px;
+}
+
+.w-\[468px\] {
+  width: 468px;
+}
+
+.w-\[100\] {
+  width: 100;
+}
+
+.w-\[100\%\] {
+  width: 100%;
+}
+
+.w-\[50\%\] {
+  width: 50%;
+}
+
+.w-\[600px\] {
+  width: 600px;
+}
+
+.w-\[1000px\] {
+  width: 1000px;
+}
+
+.w-\[900px\] {
+  width: 900px;
+}
+
+.w-\[700px\] {
+  width: 700px;
+}
+
+.w-\[700\] {
+  width: 700;
+}
+
+.max-w-lg {
+  max-width: 32rem;
 }
 
 .grow {
@@ -694,6 +809,14 @@ video {
 
 .gap-5 {
   gap: 1.25rem;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}
+
+.gap-4 {
+  gap: 1rem;
 }
 
 .overflow-x-auto {
@@ -735,12 +858,21 @@ video {
   background-color: transparent;
 }
 
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
 .bg-opacity-40 {
   --tw-bg-opacity: 0.4;
 }
 
 .bg-\[url\(\'https\:\/\/cdn\.monstercat\.com\/background-tile\.webp\'\)\] {
   background-image: url('https://cdn.monstercat.com/background-tile.webp');
+}
+
+.bg-\[url\(\'https\:\/\/cdx\.monstercat\.com\/\?encoding\=webp\&url\=https\%3A\%2F\%2Fcdn\.monstercat\.com\%2Fcontact\%2Fbg-contact-us\.webp\&width\=1920\'\)\] {
+  background-image: url('https://cdx.monstercat.com/?encoding=webp&url=https%3A%2F%2Fcdn.monstercat.com%2Fcontact%2Fbg-contact-us.webp&width=1920');
 }
 
 .bg-\[url\(\'https\:\/\/cdx\.monstercat\.com\?encoding\=webp\&url\=https\%3A\%2F\%2Fwww\.monstercat\.com\%2Frelease\%2FMCLP017\%2Fcover\%3F2ee434f2-4499-4c30-a937-4aec2b4ac1fc\&width\=1024\'\)\] {
@@ -781,6 +913,10 @@ video {
 
 .p-7 {
   padding: 1.75rem;
+}
+
+.p-52 {
+  padding: 13rem;
 }
 
 .px-6 {
@@ -834,6 +970,10 @@ video {
 
 .text-\[27px\] {
   font-size: 27px;
+}
+
+.text-\[76px\] {
+  font-size: 76px;
 }
 
 .text-huge {
